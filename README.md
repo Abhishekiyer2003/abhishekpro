@@ -1,2 +1,3 @@
 # abhishekpro
-my first git repo
+my first git repository
+My first project
